@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F6C67611-9475-469C-AD8E-E17A1E66F12D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CFA98D9-0BF3-474F-925C-57131EAC4D50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "flixer/MovieViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "MovieViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9CFA98D9-0BF3-474F-925C-57131EAC4D50 - ec8f967133e974b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixer.MovieViewController.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixer.MovieViewController"
+                  moduleName = "flixer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liz/Documents/flixer/flixer/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "9CFA98D9-0BF3-474F-925C-57131EAC4D50 - 45b10a2ee5dee0ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixer.MovieViewController.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; flixer.MovieViewController"
+                  moduleName = "flixer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liz/Documents/flixer/flixer/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "9CFA98D9-0BF3-474F-925C-57131EAC4D50 - 2187a115b5b1679d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixer.MovieViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixer.MovieViewController&gt;"
+                  moduleName = "flixer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liz/Documents/flixer/flixer/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "9CFA98D9-0BF3-474F-925C-57131EAC4D50 - 9914b59cff30858a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixer.MovieViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;flixer.MovieViewController&gt;"
+                  moduleName = "flixer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liz/Documents/flixer/flixer/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  uuid = "9CFA98D9-0BF3-474F-925C-57131EAC4D50 - e2d4a138e696c0c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "flixer.MovieViewController.__deallocating_deinit"
+                  moduleName = "flixer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/liz/Documents/flixer/flixer/MovieViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
